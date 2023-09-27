@@ -1,6 +1,4 @@
 const Main = () => {
-  var result = document.getElementById('result1');
-  var result = document.getElementById('result2');
   var dout = document.getElementById('dout');
   // Числа
   var a = document.getElementById('a').value;
